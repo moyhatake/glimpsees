@@ -1,7 +1,7 @@
 # Glimpsees
 Glimpsees is Python application that extracts individual faces from videos, saving them as images. You can also compile these extracted faces into an animated GIF.
 
-## How to use
+## Usage
 1. **Upload Your Video File**: Begin by uploading your video (MP4 and AVI formats are currently supported) to your project directory.
 
 2. **Install Libraries**: Run the Libs command to ensure all necessary dependencies are installed.
