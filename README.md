@@ -13,3 +13,9 @@ Glimpsees is Python application that extracts individual faces from videos, savi
 5. **Run the Application**: Execute the App script. Glimpsees will then process your video, detect first face (you can change it on line 65), and save each detected face per frame as a separate image.
 
 6. **Generate GIF (Optional)**: After the App script completes, you can run the GIF script to compile all the extracted face images into an animated GIF.
+
+## Open Source
+Glimpsees is an open-source project. Feel free to fork the repository, explore the code, and contribute to its development!
+
+## License
+This project is licensed under the [MIT License](LICENSE) – see the [LICENSE file](LICENSE) for details.
